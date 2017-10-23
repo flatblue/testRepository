@@ -15,6 +15,7 @@ public class Main {
 	// I am a screttttttttttttttttttteeeeeeeeeeeeeee
     }
 }
+<<<<<<< HEAD
 
 gggggggg
 
@@ -23,3 +24,9 @@ gggggggg
 
 
 afdafsafa
+=======
+fdfsafa
+fdfafafda
+
+fdafdsafdddddddddddddd
+>>>>>>> feature_branches
